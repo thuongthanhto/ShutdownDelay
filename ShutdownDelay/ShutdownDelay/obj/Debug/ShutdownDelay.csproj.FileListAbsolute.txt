@@ -1,0 +1,9 @@
+D:\GitHub\ShutdownDelay\ShutdownDelay\bin\Debug\ShutdownDelay.exe.config
+D:\GitHub\ShutdownDelay\ShutdownDelay\bin\Debug\ShutdownDelay.exe
+D:\GitHub\ShutdownDelay\ShutdownDelay\bin\Debug\ShutdownDelay.pdb
+D:\GitHub\ShutdownDelay\ShutdownDelay\obj\Debug\ShutdownDelay.csprojResolveAssemblyReference.cache
+D:\GitHub\ShutdownDelay\ShutdownDelay\obj\Debug\ShutdownDelay.frmMain.resources
+D:\GitHub\ShutdownDelay\ShutdownDelay\obj\Debug\ShutdownDelay.Properties.Resources.resources
+D:\GitHub\ShutdownDelay\ShutdownDelay\obj\Debug\ShutdownDelay.csproj.GenerateResource.Cache
+D:\GitHub\ShutdownDelay\ShutdownDelay\obj\Debug\ShutdownDelay.exe
+D:\GitHub\ShutdownDelay\ShutdownDelay\obj\Debug\ShutdownDelay.pdb
